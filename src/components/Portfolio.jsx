@@ -20,7 +20,7 @@ const works = [
   },
   
   {
-    img: "public/images/mernproject.png",
+    img: "/images/mern.png",
     title: "S-Deals E-commerce Website ",
     desc: "A full-stack MERN e-commerce application with user authentication and CRUD features.",
     link: "https://s-deals.vercel.app/",
@@ -41,14 +41,14 @@ const works = [
     category: "UIUX",
   },
   {
-    img: "/images/burger.png.png",
+    img: "/images/burger.png",
     title: "Burger Website UI Design  Prototype",
     desc: "An interactive mobile app prototype built in Figma.",
     link: "https://www.figma.com/proto/tjEM08XICGivSYaTzqd6ii/Untitled?page-id=0%3A1&node-id=17-266&viewport=-4941%2C177%2C0.21&scaling=scale-down&content-scaling=fixed&embed-host=share",
     category: "Prototype",
   },
   {
-    img: "/images/car.png.png",
+    img: "/images/car.png",
     title: "Car Website UI Design  Prototype",
     desc: "An interactive mobile app prototype built in Figma.",
     link: "https://embed.figma.com/proto/2psmDjLOvJQJ6DCa9YBEcg/BMW-CAR?page-id=285%3A1572&node-id=285-1573&p=f&viewport=374%2C40%2C0.19&scaling=scale-down&content-scaling=fixed&starting-point-node-id=285%3A1573&show-proto-sidebar=1&embed-host=share",
